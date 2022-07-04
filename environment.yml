@@ -1,0 +1,12 @@
+name: msf-env-conda
+dependencies:
+  - python==3.8
+  - pip:
+    - torch==1.9.0
+    - torchvision==0.10.0
+    - torchaudio==0.9.0
+    - pytorch-lightning==1.3.0
+    - lightning-bolts==0.4.0
+    - torchmetrics
+    - tensorboard
+    - wandb == 0.12.5
