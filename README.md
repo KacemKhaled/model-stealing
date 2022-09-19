@@ -14,6 +14,7 @@ Recent attacks on Machine Learning (ML) models such as evasion attacks with adve
 
 TL,DR: A Framework for vulnerability assessment of model stealing attacks against adversarially trained Deep Learning models.
 
+https://arxiv.org/pdf/2207.10561.pdf
 
 
 
